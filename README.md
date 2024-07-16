@@ -26,7 +26,8 @@ Automatización:
 
 Ejecución del Script:
 
-- Ejecutar el script pyGit.py desde la línea de comandos.
+- python pyGit.py desde la línea de comandos.
+- py pyGit.py desde la línea de comandos.
 
 - Seguir las instrucciones que aparecen en el menú para seleccionar la acción deseada.
 
