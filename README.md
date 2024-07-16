@@ -3,6 +3,7 @@
 Requisitos: python (https://www.python.org/)
 
 *** Script de Gestión de Proyectos con Git ***
+
 Este script automatiza diversas tareas comunes relacionadas con Git, facilitando el proceso de instalación, configuración y gestión de repositorios. Es útil para usuarios que desean simplificar el manejo de sus proyectos utilizando Git desde la línea de comandos.
 
 Características:
@@ -22,13 +23,14 @@ Automatización:
 
 *** Instrucciones de Uso ***
 
+
 Ejecución del Script:
 
 - Ejecutar el script pyGit.py desde la línea de comandos.
 
 - Seguir las instrucciones que aparecen en el menú para seleccionar la acción deseada.
-Requisitos:
 
+Requisitos:
 - Asegurarse de tener Python instalado en el sistema.
 - Contar con acceso a Internet para las instalaciones automáticas de Git (cuando no esté instalado).
 
